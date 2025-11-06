@@ -48,18 +48,19 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://badgen.net/badge/icon/javascript?icon=javascript&label)
-![CSS](https://badgen.net/badge/icon/css3?icon=css3&label)
-![HTML](https://badgen.net/badge/icon/html5?icon=html5&label)
-![Angular](https://badgen.net/badge/icon/angular?icon=angular&label)
-![Java](https://badgen.net/badge/icon/java?icon=java&label)
-![Oracle SQL](https://badgen.net/badge/icon/oracle?icon=database&label)
-![MongoDB](https://badgen.net/badge/icon/mongodb?icon=mongodb&label)
-![MySQL](https://badgen.net/badge/icon/mysql?icon=mysql&label)
-![PHP](https://badgen.net/badge/icon/php?icon=php&label)
-![Strapi](https://badgen.net/badge/icon/strapi?icon=graphql&label)
-![Git](https://badgen.net/badge/icon/git?icon=git&label)
-![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
-![VSCode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+![JavaScript](https://badgen.net/badge/JavaScript/ES6+/F7DF1E?icon=javascript&labelColor=000)
+![HTML5](https://badgen.net/badge/HTML/5/E34F26?icon=html5&labelColor=000)
+![CSS3](https://badgen.net/badge/CSS/3/1572B6?icon=css3&labelColor=000)
+![Angular](https://badgen.net/badge/Angular/Framework/DD0031?icon=angular&labelColor=000)
+![Java](https://badgen.net/badge/Java/SE/007396?icon=java&labelColor=000)
+![Oracle SQL](https://badgen.net/badge/Oracle/SQL/F80000?icon=database&labelColor=000)
+![MongoDB](https://badgen.net/badge/MongoDB/Database/47A248?icon=mongodb&labelColor=000)
+![MySQL](https://badgen.net/badge/MySQL/DB/4479A1?icon=mysql&labelColor=000)
+![PHP](https://badgen.net/badge/PHP/Server/777BB4?icon=php&labelColor=000)
+![Strapi](https://badgen.net/badge/Strapi/Headless%20CMS/2E7EEA?icon=graphql&labelColor=000)
+![Git](https://badgen.net/badge/Git/Version%20Control/F05032?icon=git&labelColor=000)
+![GitHub](https://badgen.net/badge/GitHub/Repo/181717?icon=github&labelColor=000)
+![VSCode](https://badgen.net/badge/VSCode/Editor/007ACC?icon=visualstudio&labelColor=000)
+
 
 
