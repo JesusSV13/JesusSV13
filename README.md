@@ -53,11 +53,15 @@
 ![CSS3](https://badgen.net/badge/CSS/3/1572B6?icon=css3&labelColor=000)
 ![Angular](https://badgen.net/badge/Angular/Framework/DD0031?icon=angular&labelColor=000)
 ![Java](https://badgen.net/badge/Java/SE/007396?icon=java&labelColor=000)
+![PHP](https://badgen.net/badge/PHP/Server/777BB4?icon=php&labelColor=000)
+
+### 🛠 &nbsp;Database Stack
 ![Oracle SQL](https://badgen.net/badge/Oracle/SQL/F80000?icon=database&labelColor=000)
 ![MongoDB](https://badgen.net/badge/MongoDB/Database/47A248?icon=mongodb&labelColor=000)
 ![MySQL](https://badgen.net/badge/MySQL/DB/4479A1?icon=mysql&labelColor=000)
-![PHP](https://badgen.net/badge/PHP/Server/777BB4?icon=php&labelColor=000)
 ![Strapi](https://badgen.net/badge/Strapi/Headless%20CMS/2E7EEA?icon=graphql&labelColor=000)
+
+### 🛠 &nbsp;Control Stack
 ![Git](https://badgen.net/badge/Git/Version%20Control/F05032?icon=git&labelColor=000)
 ![GitHub](https://badgen.net/badge/GitHub/Repo/181717?icon=github&labelColor=000)
 ![VSCode](https://badgen.net/badge/VSCode/Editor/007ACC?icon=visualstudio&labelColor=000)
