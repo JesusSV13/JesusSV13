@@ -7,8 +7,9 @@
 ## Sobre mi
 - Desarrollador Web Junior 💻
 - Graduado en CIPFP Cheste 🎓
-- Deportista 🏈
-- Amable y extrovertido 😝
+- Amante del deporte 🏈
+- Amable, extrovertido y con muchas ganas de aprender y progresar 😝
+- Puedes contactarme por correo jesussanchezvillarrubia@gmail.com!!
 
 ## Proyectos *interesantes*
 <table>
@@ -44,3 +45,8 @@
 </table>                                                                                 
 </div>
 <br>
+
+### 🛠 &nbsp;Tech Stack
+
+![Github](https://badgen.net/badge/icon/github?icon=github&label)
+
