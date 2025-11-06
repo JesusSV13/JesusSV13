@@ -48,5 +48,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Github](https://badgen.net/badge/icon/github?icon=github&label)
+![JavaScript](https://badgen.net/badge/icon/javascript?icon=javascript&label)
+![CSS](https://badgen.net/badge/icon/css3?icon=css3&label)
+![HTML](https://badgen.net/badge/icon/html5?icon=html5&label)
+![Angular](https://badgen.net/badge/icon/angular?icon=angular&label)
+![Java](https://badgen.net/badge/icon/java?icon=java&label)
+![Oracle SQL](https://badgen.net/badge/icon/oracle?icon=database&label)
+![MongoDB](https://badgen.net/badge/icon/mongodb?icon=mongodb&label)
+![MySQL](https://badgen.net/badge/icon/mysql?icon=mysql&label)
+![PHP](https://badgen.net/badge/icon/php?icon=php&label)
+![Strapi](https://badgen.net/badge/icon/strapi?icon=graphql&label)
+![Git](https://badgen.net/badge/icon/git?icon=git&label)
+![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
+![VSCode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
+
 
