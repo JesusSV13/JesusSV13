@@ -6,7 +6,7 @@
 
 ## Sobre mi
 - Desarrollador Web Junior 💻
-- Graduado en CIPFP Cheste 🎓
+- Graduado en CIPFP Cheste (DAW) 🎓
 - Amante del deporte 🏈
 - Amable, extrovertido y con muchas ganas de aprender y progresar 😝
 - Puedes contactarme por correo jesussanchezvillarrubia@gmail.com!!
