@@ -3,6 +3,9 @@
 </div>
 
 ##Img
+<p align="center">
+  <img src="./banerGithub.jpg" alt="Banner" width="100%">
+</p>
 
 ## Sobre mi
 - Desarrollador Web Junior 💻
