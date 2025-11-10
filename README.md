@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Trello Clone Proyect</h3>
 <div align="center">
-<a href="https://jesussv13.github.io/Trello-Clone-Project/" target="_blank"><img src="" width="400" alt="Trello Clone Proyect"></a>
+<a href="https://jesussv13.github.io/Trello-Clone-Project/" target="_blank"><img src="./ImgTrelloCloneProyect.png" width="400" alt="Trello Clone Proyect"></a>
 <p>
 <a href="https://github.com/JesusSV13/Trello-Clone-Project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Mini Pokemon TCG Game</h3>
 <div align="center">                                       
-<a href="https://jesussv13.github.io/Pokemon-TCG-Game-Whit-API/" target="_blank"><img src="" width="400" alt="Mini Pokemon TCG Game"></a>
+<a href="https://jesussv13.github.io/Pokemon-TCG-Game-Whit-API/" target="_blank"><img src="./pokemonGame.png" width="400" alt="Mini Pokemon TCG Game"></a>
 <br>
 <p>
 <a href="https://github.com/JesusSV13/Pokemon-TCG-Game-Whit-API" target="_blank">
